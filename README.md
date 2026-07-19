@@ -1,312 +1,81 @@
-# Hi, I'm Sourav Das 👋
+<h1 align="center">Hi 👋, I'm Sourav Das</h1>
+<h3 align="center">AI Engineer in the making | GenAI & Applied ML</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Final-Year+CS+(AI%2FML)+Student;Building+with+LLMs+%26+Generative+AI;Turning+Ideas+into+Deployable+ML+Systems" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer+in+Progress;Generative+AI+%7C+LLMs+%7C+RAG+Systems;FastAPI+%7C+Deep+Learning+%7C+MLOps;Building+Intelligent+Systems+with+AI" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=SouravDasz&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-## About Me
-
-I am a Computer Science student specializing in **Artificial Intelligence and Machine Learning**, passionate about building intelligent systems that combine machine learning models, large language models, and scalable backend architectures.
-
-My focus lies in:
-
-* Artificial Intelligence & Machine Learning
-* Generative AI Applications
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Computer Vision
-* Backend Engineering with FastAPI
-* MLOps and AI Deployment
-
-I enjoy transforming research concepts into practical AI applications that solve real-world problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourav-das-90a2b6378/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sourav177official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Current Focus
+### 🚀 About Me
 
-```yaml
-Learning:
-  - Advanced RAG Architectures
-  - LangChain & LangGraph Agents
-  - MLOps Workflows
-  - Production AI Systems
-  - Cloud Deployment
-
-Building:
-  - AI-powered applications
-  - Intelligent assistants
-  - ML deployment pipelines
-```
+- 🎓 Final-year **B.Tech in Computer Science (AI/ML)** student at Brainware University  
+- 🧠 Focused on **Generative AI, Agentic Systems, and Applied Machine Learning**  
+- 🛠️ Currently sharpening skills in **LLM fine-tuning, LLMOps, and production-ready AI systems**  
+- 📚 Actively building a portfolio through hands-on bootcamps and real-world project work  
+- 🎯 Preparing to step into the industry as an **AI Engineer**
 
 ---
 
-# Technical Expertise
+### 🧰 Tech Stack
 
-## Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<div>
+**Core Areas:**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
-
-</div>
-
-## Artificial Intelligence & Machine Learning
-
-<div>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-</div>
-
-**Machine Learning**
-
-* Regression & Classification Algorithms
-* Ensemble Learning
-* Feature Engineering
-* Model Evaluation
-* Hyperparameter Optimization
-* Data Preprocessing Pipelines
-
-**Deep Learning**
-
-* Artificial Neural Networks
-* CNN Architectures
-* RNN / LSTM Networks
-* Transfer Learning
-* Computer Vision Applications
-
-**Generative AI**
-
-* Large Language Models
-* Prompt Engineering
-* Retrieval-Augmented Generation
-* Vector Databases
-* Embeddings
-* AI Agents
+| Category | Skills |
+|---|---|
+| 🔹 Programming & Core ML/DL | Python, NumPy, Pandas, Scikit-learn, PyTorch, Deep Learning |
+| 🔹 Generative & Agentic AI | LLMs, Transformers, LangChain, Prompt Engineering, RAG |
+| 🔹 Frameworks & MLOps | FastAPI, Hugging Face, Model Deployment, Git/GitHub |
+| 🔹 Databases & Tools | PostgreSQL, SQL, VS Code, Jupyter |
 
 ---
 
-# Backend & Engineering
+### 📊 GitHub Stats
 
-<div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Souravdasz&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravdasz&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,mysql,docker,linux,git,github" />
-
-</div>
-
-Experience with:
-
-* REST API Development
-* Authentication Systems
-* Database Design
-* SQLAlchemy ORM
-* Backend Architecture
-* Containerization
-* Version Control
-* Deployment Workflows
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Souravdasz&theme=github-dark-blue&hide_border=true" alt="streak stats" />
+</p>
 
 ---
 
-# Featured Projects
+### 🌱 Currently Exploring
 
-## AI Interview Preparation Platform
-
-An intelligent interview preparation system powered by AI.
-
-**Key Features**
-
-* AI-generated interview questions
-* Subject-based AI assistant
-* Interview simulation
-* Intelligent feedback generation
-* Personalized preparation workflow
-
-**Tech Stack**
-
-```
-Python
-FastAPI
-LLMs
-RAG
-Database Systems
-AI Agents
-```
+- Fine-tuning open-source LLMs for domain-specific tasks  
+- Multimodal AI systems (vision + language)  
+- Building agentic AI workflows for real-world use cases  
 
 ---
 
-## PDF Intelligence Chatbot
+### 📫 Let's Connect
 
-A document-based conversational AI system using Retrieval-Augmented Generation.
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourav-das-90a2b6378/" target="_blank">LinkedIn</a> •
+  <a href="mailto:sourav177official@gmail.com">Email</a>
+</p>
 
-**Capabilities**
-
-* Upload PDF documents
-* Extract and process information
-* Generate semantic embeddings
-* Store vectors efficiently
-* Retrieve relevant context
-* Answer questions using LLMs
-
-**Tech Stack**
-
-```
-Python
-LangChain
-HuggingFace
-ChromaDB
-FastAPI
-LLMs
-```
-
----
-
-## AI License Plate Detection System
-
-Computer Vision application for automatic vehicle number plate recognition.
-
-**Pipeline**
-
-```
-Image Input
-     |
-Object Detection
-     |
-YOLO Model
-     |
-OCR Processing
-     |
-Text Extraction
-```
-
-**Technologies**
-
-```
-YOLO
-OpenCV
-OCR
-Deep Learning
-Computer Vision
-```
-
----
-
-# AI & ML Journey
-
-```
-Machine Learning
-        |
-        ↓
-Deep Learning
-        |
-        ↓
-Computer Vision / NLP
-        |
-        ↓
-Transformers
-        |
-        ↓
-Generative AI
-        |
-        ↓
-AI Agents & MLOps
-```
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SouravDasz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravDasz&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SouravDasz&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Overview
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SouravDasz&theme=tokyonight&no-frame=true&column=7"/>
-
-</div>
-
----
-
-# Tools & Technologies
-
-| Category      | Technologies                       |
-| ------------- | ---------------------------------- |
-| Languages     | Python, C++, JavaScript, SQL       |
-| ML Frameworks | Scikit-Learn, TensorFlow, PyTorch  |
-| AI            | LangChain, LangGraph, Transformers |
-| Backend       | FastAPI, Flask                     |
-| Databases     | SQLite, MySQL, Vector Databases    |
-| Deployment    | Docker, GitHub Actions             |
-| Data Science  | NumPy, Pandas, Matplotlib          |
-
----
-
-# Learning Philosophy
-
-> "The goal is not only to build models, but to engineer intelligent systems that create impact."
-
-I believe successful AI engineering requires a combination of:
-
-* Strong mathematical foundations
-* Practical experimentation
-* Clean software engineering
-* Continuous learning
-* Real-world deployment
-
----
-
-# Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sourav-das-90a2b6378/">
-
-<img src="https://img.shields.io/badge/LinkedIn-Sourav%20Das-blue?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="mailto:sourav177official@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-sourav177official%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://github.com/SouravDasz">
-
-<img src="https://img.shields.io/badge/GitHub-SouravDasz-black?style=for-the-badge&logo=github"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building the future with Artificial Intelligence
-
-⭐ Open to collaboration on AI, ML, and Generative AI projects.
-
-</div>
+<p align="center"><i>⭐️ Open to AI/ML internship and entry-level opportunities — let's build something great together.</i></p>
