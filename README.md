@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/sourav-das-90a2b6378/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sourav177official@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Souravdasz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/SouravDasz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -62,16 +62,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Souravdasz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souravdasz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=SouravDasz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravDasz&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Souravdasz&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=SouravDasz&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souravdasz&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SouravDasz&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
 
