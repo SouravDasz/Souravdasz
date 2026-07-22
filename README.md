@@ -286,13 +286,9 @@ PyTorch
 
 # GitHub Streak
 
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SouravDasz&theme=github-dark-blue&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=SouravDasz&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
-
 
 ---
 
